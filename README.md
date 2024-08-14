@@ -1,3 +1,4 @@
 # prepcourse_henry
 manuel marquez 
-este proyecto es una prueba para hacer un repositorio 
+
+este es una prueba de como clonar un repositorio con git hub 
